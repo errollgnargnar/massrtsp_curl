@@ -5,6 +5,8 @@ Wordlist password attacker on RTSP protocol. Program will auto stop if response 
 
 ## How to Run
 - Clone this repo
+- $ pip install pycurl
+-    # you only need to install pycurl with pip Once.
 - $ python3 massrtsp.py -h
 
 ## Roapmap for future features
